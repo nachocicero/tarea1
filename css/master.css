@@ -1,0 +1,21 @@
+.alado{ 
+    background-color: #f5f5f5;
+    border-radius: 500px;
+    padding: 20px;
+    margin-bottom: 20px;
+
+}
+
+.cien{
+<<<<<<< HEAD
+    text-decoration: none;
+=======
+>>>>>>> 8dfd1abff4493f700b2c52ed92fed1a8b4a93e16
+    width: 100%;
+    background-color: #f5f5f5;
+    border-radius: 500px;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-left: 300px;
+
+}
